@@ -1,0 +1,106 @@
+/* This format applies to whole body */
+body{
+    background-image: url("new.jpg");
+    background-size: cover;
+    color:#08043e;
+}
+#picture{
+    position:absolute;
+    height: 230px;
+    width: 200px;
+    margin-top: 45px;
+    margin-left: 730px;
+}
+#page{
+    border-radius: 1%;
+    background-color: rgb(170, 76, 137);
+    margin-top: 49px;
+    margin-left: 357px;
+    width:595px;
+    height:345px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* this is portfolio owner's picture and intro */
+#intro{
+    display:inline-block;
+    width:500px;
+    margin-top: 1px;
+    margin-left: 20px;
+}
+/* name */
+h1{
+    font-size: 50px;
+}
+/* text within boxes */
+.text{
+    font-size: 14px;
+    text-decoration: none;
+    color:#000000fc;
+    font-family: impact;
+    font-weight: lighter;
+    display:inline-block;
+    margin-top: 20px;
+}
+#box1{
+    margin-left: 5px;
+    margin-right: 10px;
+    display:inline-block;
+    text-align: center;
+    width: 70px;
+    height:65px;
+    background-color: #11711189;
+    border-radius: 50%;
+    border-color: #000000;
+    border-width: 2px;
+    border-style: solid;
+
+}
+#box2{
+    display:inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    width:70px;
+    height:65px;
+    background-color: #bca903d8;
+    border-radius: 50%;
+    border-color: #000000;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+}
+#box3{
+    display:inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    width:70px;
+    height:65px;
+    background-color: #71058fc8;
+    border-radius: 50%;
+    border-color: #000000;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+}
+#box4{
+    display:inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 70px;
+    height:65px;
+    background-color: #0571a0cd;
+    border-radius: 50%;
+    border-color: #000000;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+}
+#email{
+    display:inline-block;
+    background-color: #383295;
+    color:#ffffff;
+    padding-left: .09%;
+    padding-right: .1%;
+    font-size: 14.4px;
+    margin-left: 8px;
+    margin-top: 29px;
+}
